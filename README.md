@@ -29,8 +29,8 @@ Dependencies
 Download
 ========
 * For binary releases, see Bitcointalk thread: https://bitcointalk.org/index.php?topic=632724
-* Git tree:   https://github.com/wolf9466/cpuminer-multi
-* Clone with `git clone https://github.com/wolf9466/cpuminer-multi`
+* Git tree:   https://github.com/h2script/cpuminer-multi
+* Clone with `git clone https://github.com/h2script/cpuminer-multi`
 
 Build
 =====
